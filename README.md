@@ -1,0 +1,1 @@
+Forensic 360 is a cutting-edge crime investigation platform that integrates machine learning, forensic analysis, and 3D crime scene visualization. The system is designed to enhance crime scene reconstruction, blood spatter analysis, and wound dimension estimation using AI-powered tools.
